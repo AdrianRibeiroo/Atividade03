@@ -1,0 +1,62 @@
+#logomarca{
+    width:200px;  
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+body {
+    background-color: black;
+    color: aliceblue;
+    text-align: justify;
+    padding: 2%;
+}
+h1{
+    font-family: "kristen ITC Regular", serif;
+    color: red;
+}
+h2{
+    font-family: "Tempus Sans ITC Regular";
+    color: #B22222;
+}
+a:link{
+    color: blue;
+    text-decoration: none;
+
+}
+a:visited{
+    color: blueviolet;
+    text-decoration: underline;
+
+}
+a:hover{
+    color:antiquewhite ;
+    text-decoration: none;
+
+}
+a:active{
+    color: red;
+    text-decoration: underline;
+
+}
+.nota{
+    color: darksalmon;
+    opacity: 40%;
+}
+.nota strong{
+    color: red;
+}
+.passo strong{
+    font-size: 24px;
+    color: red;
+    background-color: #FFA07A;
+}
+.passo em{
+    font-size: 24px;
+}
